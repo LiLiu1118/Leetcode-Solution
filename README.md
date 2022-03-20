@@ -1,1 +1,1 @@
-# Leetcode-Solution
+# Here I train my knowledge of algorithms
