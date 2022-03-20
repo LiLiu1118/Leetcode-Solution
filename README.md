@@ -1,1 +1,1 @@
-# Here, I train my knowledge of algorithms and gather knowledge about data structures
+# Here, I gather my knowledge of algorithms and learn about data structures
